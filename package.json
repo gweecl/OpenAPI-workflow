@@ -1,0 +1,7 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "multi-file-swagger": "^2.3.0",
+    "yamlinc": "^0.1.10"
+  }
+}
